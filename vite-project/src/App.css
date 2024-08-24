@@ -1,0 +1,47 @@
+body {
+  /* max-width: 1280px; */
+  margin: 0;
+  padding:0;
+  /* padding: 2rem; */
+  background-color: rgb(194, 183, 183);
+}
+header {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(32, 32, 32);
+  color: white;
+}
+
+.heading {
+  /* margin: 0 1.5rem; */
+}
+.links {
+  
+  margin: 1.5rem 3rem;
+}
+.ref {
+  color: rgb(95, 172, 95);
+  margin: 0.5rem;
+  text-decoration: none;
+}
+.container {
+  /* background-color: rgb(212, 192, 167); */
+  text-align: center;
+}
+.projects{
+  /* background-color: rgb(212, 192, 167); */
+}
+footer {
+  background-color: rgb(4, 100, 100);
+  color: rgb(204, 184, 146);
+  text-align: center;
+  padding-top: 0.5px;
+  margin-top: 1rem;
+  /* display: flex;
+  flex-direction: column; */
+}
+.signature{
+  padding: 0 3rem;
+  text-align: end;
+  color:wheat;
+}
